@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="simiple_button_color">#FFF</color>
+    <color name="link_color">#FF0066CC</color>
+    <color name="default_color">#FFBFBFBF</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#bbbbbb</color>
+    <color name="colorTableHeader">#DDDDDD</color>
+
+    <color name="colorPrimaryDark_gray">#404040</color>
+    <color name="colorPrimary_gray">#808080</color>
+    <color name="windowBackground_gray">#BFBFBF</color>
+    <color name="textColorPrimary_gray">#DDDDDD</color>
+    <color name="navigationBarColor_gray">#808080</color>
+</resources>
